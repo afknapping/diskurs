@@ -9,7 +9,7 @@
 
   - ✔ Setup: what needs to be configured before people can start communicating?
   - Onboarding: Inviting, joining, guiding
-  - Posting, editing, state manipulation
+  - Posting, editing, reading, state manipulation
   - Moderation (this especially needs the mentioned open eyes to accomodate for Urbit's p2p architecture)
 
 - There should be a clear prioritisation on what delivers the most value.
