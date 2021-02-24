@@ -33,7 +33,7 @@ I propose to divide the user journeys into four main blocks:
 
 - Setup: what needs to be configured before people can start communicating?
 - Onboarding: Inviting, joining, guiding
-- Posting
+- Posting and reading
 - Moderation (this especially needs the mentioned open eyes to accomodate for Urbit's p2p architecture)
 
 Each of the four blocks should have a first rough outline with screenshots.
