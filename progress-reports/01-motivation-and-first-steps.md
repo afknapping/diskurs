@@ -16,7 +16,7 @@ Given the history and widespread use, it seems obvious that Urbit wants to offer
 
 # How?
 
-First of all, there is no wheel to re-invent here. Even if there were innovation to do, it would be contraproductive to onboarding new people onto Urbit. People usually want things the way they know them. \[lmk know if there are citations needed here, ~hocdep]
+First of all, there is no wheel to re-invent here. Even if there was innovation to do, it would be contraproductive to onboarding new people onto Urbit. People usually want things the way they know them. \[lmk know if there are citations needed here, ~hocdep]
 
 Though there is an endless plethora of forum software, [Discourse](https://www.discourse.org/) stands out for several reasons, summed up nice on [Discourse's about page](https://www.discourse.org/about):
 
