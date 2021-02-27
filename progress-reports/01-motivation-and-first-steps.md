@@ -24,7 +24,7 @@ Though there is an endless plethora of forum software, [Discourse](https://www.d
 
 ![image](https://user-images.githubusercontent.com/170145/108705826-16f3cb00-750e-11eb-8f40-3a6deb9fa5ac.png)
 
-The basic answer to `how` is: "Let's clone Discourse, of course while keeping our eyes open"
+The basic answer to `how` is: "Let's clone Discourse, of course while keeping our eyes open, and chop off everything that is not need for a solid 1.0"
 
 
 # Next Steps
