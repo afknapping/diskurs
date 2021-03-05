@@ -11,7 +11,8 @@ Reduced version without subforums or avatars on the frontpage at https://discour
 ---
  mobile:
  
-![IMG_9933](https://user-images.githubusercontent.com/170145/110183683-b028b880-7e0f-11eb-8788-98cbe5e6fc4a.PNG)
+![IMG_9933](https://user-images.githubusercontent.com/170145/110183830-0d246e80-7e10-11eb-9698-22e85564be75.jpeg)
+
 
 
 
@@ -20,6 +21,7 @@ Reduced version without subforums or avatars on the frontpage at https://discour
 
 ![image](https://user-images.githubusercontent.com/170145/109192954-26864480-7798-11eb-8578-998176be9819.png)
 
+---
 "Top" Button tooltip: "the most active topics in the last year, month, week or day"
 
 - [ ] compare mobile
@@ -48,9 +50,12 @@ What is the relevance of "numbers of answers"?
 
 ## Notifications
 
+
 ![](https://user-images.githubusercontent.com/170145/109045954-7f8ca480-76d4-11eb-8706-a1aeecb74f2c.png)
+---
 - icons without labels are tough. unecessary on large screens
 
+---
 ![image](https://user-images.githubusercontent.com/170145/109046137-b662ba80-76d4-11eb-95a3-ab33507a4591.png)
 - hover is used as hover color, not sure about it
 - what kind of state is this?
