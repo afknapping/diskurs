@@ -20,6 +20,7 @@
 - There should be a clear prioritisation on what delivers the most value
   - Since there is no innovation to do inititally, the emphasis should be on quality of functionality, not quantity (Half, Not Half-Assed)
 - content-based, not screenbased media queries where possible
+- markup should be hackable and somewhat stable. state classes should be added to most outer related element. custom css is not needed for 1.0.
 
 
 
