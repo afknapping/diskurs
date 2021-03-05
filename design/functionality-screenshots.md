@@ -2,11 +2,19 @@
 
 ## Cleaner and more readable
 
+---
 ![image](https://user-images.githubusercontent.com/170145/109192476-8c260100-7797-11eb-90f2-2fee70b1bf35.png)
 
+---
 Reduced version without subforums or avatars on the frontpage at https://discourse.learnshapeup.com/
 
-- [ ] compare mobile
+---
+ mobile:
+ 
+![IMG_9933](https://user-images.githubusercontent.com/170145/110183683-b028b880-7e0f-11eb-8788-98cbe5e6fc4a.PNG)
+
+
+
 
 ## Sorting and filtering
 
