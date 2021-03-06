@@ -19,7 +19,7 @@
 - is flagging/snitching needed for a 1.0? does that need to me automated? does it need to be persisted? why make that easy? if it is really so upsetting that you want to call the authorities, send them a DM with a link to the post and write a sentence or two on what you wish should happen next
 - There should be a clear prioritisation on what delivers the most value
   - Since there is no innovation to do inititally, the emphasis should be on quality of functionality, not quantity (Half, Not Half-Assed)
-- content-based, not screenbased media queries where possible
+- content-based, not screen-based "media queries" first, where possible – see [Inside-out Design](https://codepen.io/afknapping/pen/MwNbGz)
 - markup should be hackable and somewhat stable. state classes should be added to most outer related element. custom css is not needed for 1.0
 - everything must behave nicely when base font size is zoomed
   - zoom ui is important, because there is no quick scaling for mobile browsers
