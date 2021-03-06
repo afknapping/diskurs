@@ -23,8 +23,8 @@
 - markup should be hackable and somewhat stable. state classes should be added to most outer related element. custom css is not needed for 1.0
 - everything must behave nicely when base font size is zoomed
   - zoom ui is important, because there is no quick scaling for mobile browsers
-- it should work as PWA without browser chrome → needs back buttons then
-  - is that detectable with css?
+- it should work as PWA or electron app without browser chrome → needs back buttons then
+  - is that detectable with css/js?
 
 
 
