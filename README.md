@@ -2,6 +2,9 @@
 
 A forum for urbit
 
+[![image](https://user-images.githubusercontent.com/170145/110250078-d8ccc180-7f79-11eb-87d1-cb3d0a6c9da3.png)](https://unsplash.com/photos/6F-uGWod7Xk)
+
+
 Research and design is all there is so far, no code
 
 ## Design
