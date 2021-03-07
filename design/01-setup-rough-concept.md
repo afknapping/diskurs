@@ -1,6 +1,4 @@
-# setup / rough concept
-
-# **Setup: What is really necessary for a solid 1.0?**
+# **Setup: What is really necessary for a solid 1.0? (rough concept)**
 
 1. Upfront setup is awful. There should be as little as possible. Lots of things Discourse packs upfront can be setup later, once the user had the "whoa, creation was fast" experience. Lots of things are not needed at all for a solid 1.0.
 
