@@ -29,13 +29,4 @@
 
 
 
-
-
-## Questions and entry points
-- tags, channels, categories, subforums
-- relative time vs absolute time
-- [Is there a (free/open source) black and white emoji font? - Graphic Design Stack Exchange](https://graphicdesign.stackexchange.com/questions/113388/is-there-a-free-open-source-black-and-white-emoji-font/117696#117696)
-- [ ] check for state of media queries for touch vs point and click
-  - how do laptops with touchscreens react?
-- is "subforums" optional to 1.0?
-- is categories optional to 1.0?
+(This is a living document. All feedback and challenges are welcome)
